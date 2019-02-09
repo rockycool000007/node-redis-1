@@ -1,0 +1,14 @@
+1. Update ubuntu / centos packages
+
+
+2. Install Redis Server :
+apt install redis-server
+yum install redis-server
+
+
+3. Install Nodejs :
+Ubuntu :
+apt install nodejs npm nodejs-legacy -y
+
+CentOS :
+yum install nodejs npm -y
